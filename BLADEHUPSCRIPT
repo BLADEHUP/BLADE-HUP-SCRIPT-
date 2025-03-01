@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BLADEHUP/BLADE-HUP-SCRIPT/refs/heads/main/bladehup"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BLADEHUP/lua-blade-hup/refs/heads/main/lua%20blade%20HUP"))()
